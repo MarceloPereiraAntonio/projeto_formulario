@@ -16,9 +16,9 @@ else {
 }
 
 switch ($pagina) {
-	case 'formulario': include 'formulario.php'; break;
+	case 'formulario': include 'views/formulario.php'; break;
 	case 'visual': include 'views/visual.php'; break;
-	case 'nova_tela': include 'nova_tela.php'; break;
+	case 'tela_editar': include 'views/tela_editar.php'; break;
 	
 	default: include 'views/home.php';
 

@@ -14,6 +14,3 @@
 		<h1>Formulario de cadastro</h1>
 	<a href="?pagina=home"><img src="img/logo.png" title="Logo" alt="Logo"></a>
     </header>
-<body>
-
-</body>
